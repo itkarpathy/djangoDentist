@@ -127,7 +127,7 @@ STATICFILES_DIRS =[
 
 EMAIL_HOST = 'smtp.gmail.com:budaiingatlanos.oc@gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'budaiingatlanos.oc@gmail.com'
-EMAIL_PASSWORD = 'Alicante2019'
+EMAIL_HOST_USER = ''
+EMAIL_PASSWORD = ''
 EMAIL_USE_TLS = True
 # EMAIL_USE_SSL = False
