@@ -18,7 +18,7 @@ def contact(request):
 			message_name,
 			message,
 			message_email,
-			['itkarpathy@gmail.com'],
+			['contact.foglalas@gmail.com'],
 
 			)
 
@@ -66,7 +66,7 @@ def appointment(request):
 			'Appointment Request ',
 			appointment,
 			your_email,
-			['itkarpathy@gmail.com'], #dentist email
+			['contact.foglalas@gmail.com'], #recive email
 
 			)
 
